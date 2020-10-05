@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A1.5_Sergio_Ezquerro</string>
+    <string name="enter_your_name">Introduce tu nombre</string>
+    <string name="topping">Cubierta</string>
+    <string name="whipped_cream">Crema batida</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Cantidad</string>
+    <string name="Subtract">-</string>
+    <string name="Quantity_Number">1</string>
+    <string name="Add">+</string>
+    <string name="order_summary">Resumen de la orden</string>
+    <string name="order">Ordenar</string>
+</resources>
